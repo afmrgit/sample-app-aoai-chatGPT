@@ -1,3 +1,4 @@
+# Lord Jesus Christ, Son Of God, Have Mercy On Me, A Sinner.
 # [Preview] AFMR Advisor Sample Chat App with AOAI
 
 This repo contains sample code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.

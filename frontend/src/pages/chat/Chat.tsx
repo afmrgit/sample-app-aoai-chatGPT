@@ -682,7 +682,7 @@ const Chat = () => {
                                         <div className={styles.chatMessageGpt}>
                                             <Answer
                                                 answer={{
-                                                    answer: "Generating answer...",
+                                                    answer: "Advisor Generating answer...",
                                                     citations: []
                                                 }}
                                                 onCitationClicked={() => null}
