@@ -1,4 +1,4 @@
-# [Preview] AFMR Sample Chat App with AOAI
+# [Preview] AFMR Advisor Sample Chat App with AOAI
 
 This repo contains sample code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.
 
