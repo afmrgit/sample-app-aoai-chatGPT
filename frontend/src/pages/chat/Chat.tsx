@@ -1,3 +1,4 @@
+/* Lord Jesus Chris, Son Of God, Have Mercy On Me, A Sinner. */
 import { useRef, useState, useEffect, useContext, useLayoutEffect } from "react";
 import { CommandBarButton, IconButton, Dialog, DialogType, Stack } from "@fluentui/react";
 import { SquareRegular, ShieldLockRegular, ErrorCircleRegular } from "@fluentui/react-icons";
@@ -766,7 +767,7 @@ const Chat = () => {
                             </Stack>
                             <QuestionInput
                                 clearOnSend
-                                placeholder="AFMR advisor here, ask me a question like who is working on LLM proposals..."
+                                placeholder="I am AFMR advisor, ask me a question like who is working on LLM proposals..."
                                 disabled={isLoading}
                                 onSend={(question, id) => {
                                     appStateContext?.state.isCosmosDBAvailable?.cosmosDB ? makeApiRequestWithCosmosDB(question, id) : makeApiRequestWithoutCosmosDB(question, id)
